@@ -13,6 +13,12 @@ Roti,
 rice
 
 
+Beans
+Pizza
+
 Final copy
 
+
 Thank u !
+
+Done my changes!
