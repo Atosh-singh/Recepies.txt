@@ -12,4 +12,7 @@ chicken
 Roti,
 rice
 
+Beans
+Pizza
+
 Thank u !
